@@ -8,5 +8,9 @@ namespace FantasticLibrary
 {
     public class Class1
     {
+        public static void method()
+        {
+
+        }
     }
 }
