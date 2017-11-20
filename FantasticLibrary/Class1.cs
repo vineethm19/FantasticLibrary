@@ -10,7 +10,7 @@ namespace FantasticLibrary
     {
         public static void method()
         {
-
+            Console.WriteLine("hello world");
         }
     }
 }
