@@ -12,6 +12,7 @@ namespace FantasticLibrary
         {
             Console.WriteLine("hello world");
             Console.WriteLine("From cloned project");
+            Console.WriteLine("hello world");
         }
     }
 }
